@@ -12,7 +12,7 @@ namespace First_Console_App
         {
             string Name = "Sabir";
             string LastName = "Mustafayev";
-            Console.WriteLine(Name);
+            Console.Write(Name);
             Console.WriteLine(LastName);
             Console.ReadKey();
         }
